@@ -1,1 +1,1 @@
-# CIS492_Final_Project
+# For input data visit: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
