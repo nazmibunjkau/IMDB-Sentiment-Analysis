@@ -1,1 +1,1 @@
-# For input data visit: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+We are generating our own binary classified input data for pos and neg IMDB movie reviews. Then, perform sentiment analysis to predict whether or not a movie review is pos or neg utilizing NLP techniques to generate feature lists and ML classification for prediction 
