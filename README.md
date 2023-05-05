@@ -1,1 +1,1 @@
-We are generating our own binary classified input data for pos and neg IMDB movie reviews. Then, perform sentiment analysis to predict whether or not a movie review is pos or neg utilizing NLP techniques to generate feature lists and ML classification for prediction 
+We are obtaining our own binary classified input data for pos and neg IMDB movie reviews. Then, perform sentiment analysis to predict whether or not a movie review is pos or neg utilizing NLP techniques to generate feature lists and ML classification for prediction 
